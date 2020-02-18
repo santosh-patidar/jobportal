@@ -1,0 +1,45 @@
+body{
+   
+    background-image: url(./job1.jpg);
+    background-position: fixed;
+      filter: blur(.5px);
+      /* -webkit-filter: blur(0.5px); */
+     background-size: cover;
+     /* background-repeat:none; https://wallpapertag.com/wallpaper/full/c/a/a/157415-simplistic-wallpapers-1920x1080-lockscreen.jpg*/
+    
+     overflow-x: hidden;
+  font-family: lato;
+  background-color: #EEEEEE;
+  }
+
+form{
+    border-radius: 15px;
+   background-color: rgba(0, 4, 1, 0.2);
+    width: 35vw;
+    font-display: 10px;
+    margin-right: 50px;
+    margin-top: 0vh;
+    border:2px transparent;
+     box-shadow: 7px 10px #004557;
+    font-size:17px;
+    color: lime;
+  
+    
+    position: absolute;
+    bottom: 0.2;
+   left: 1;
+    width:400px;
+
+    /* padding: 10px 20px 10px 20px; */
+} 
+
+label{
+    float: left;
+    color:white;
+ }
+
+p{
+    color:white;
+    font-size: 15px;
+ } 
+ 

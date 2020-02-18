@@ -1,0 +1,27 @@
+
+
+.div1{
+    border-radius: 15px;
+     width: 35vw;
+     font-display: 10px;
+     margin-left:30%;
+     margin-top: 15vh;
+
+     /* border:2px transparent; */
+      box-shadow: 2px 7px 4px 5px  #004557;
+     font-size:17px;
+     
+}
+.nm1{
+    border-radius: 15px;
+    background-color: rgba(1, 0, 2, 0.2);
+     width: 35vw;
+     font-display: 10px;
+     margin-left:30%;
+     margin-top: 10vh;
+
+     /* border:2px transparent; */
+      box-shadow: 3px 10px 4px 5px  #004557;
+     font-size:5px;
+     
+}
