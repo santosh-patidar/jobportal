@@ -11,5 +11,5 @@ module.exports =function(app){
     app.put('/api/verify/:id',user.verify);
 
 
-   // app.post('/api/sendmail',user.sendMail);
+   app.post('/api/sendmail',user.sendMail);
 }
