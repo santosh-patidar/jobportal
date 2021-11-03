@@ -30,6 +30,6 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-bootstrap-dropdown": "^0.3.0",
     "sendotp": "^1.2.9",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
